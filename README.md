@@ -1,4 +1,4 @@
-# Neural network
+### Neural network
 
 This project comprises of designing and coding a neural network from scratch with Python.
 It contains the following steps:
